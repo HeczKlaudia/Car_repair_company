@@ -1,0 +1,99 @@
+.nav-link-basic,
+.nav-link-aut {
+    text-decoration: none;
+    color: rgb(62, 61, 61);
+}
+
+.nav-link-aut {
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#header-contact p {
+    font-size: 10pt;
+    margin-top: 5px;
+}
+
+#header-contact {
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#header-contact .contact-box {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+#header-contact .contact-box i {
+    font-size: 25px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    color: white;
+    margin-right: 15px;
+}
+
+.card-group {
+    padding: 5px 5px 5px 5px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card-group .card {
+    padding: 10px 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.card-group .card i {
+    font-size: 25px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    color: black;
+    margin-right: 15px;
+}
+
+.our-company {
+    background-color: rgba(216, 216, 215, 0.299);
+    height: 30vh;
+    margin-bottom: 2%;
+}
+
+.video {
+    float: right;
+}
+
+.footer-form {
+    opacity: 0.85;
+    height: 50vh;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.footer-inf {
+    background-color: rgba(222, 204, 183, 0.415);
+}
+
+.contact-card {
+    width: 60%;
+}
+
+.form-group input,
+#textarea {
+    background-color: rgba(220, 220, 220, 0);
+    color: aliceblue;
+}
